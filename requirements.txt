@@ -4,3 +4,4 @@ python-dateutil>=2.8.2
 langdetect>=1.0.9
 extruct>=0.13.0
 deep-translator>=1.5.4
+html5lib==1.1

@@ -15,6 +15,7 @@ A python module for parsing HTML into news components.
 * [LangDetect 1.0.9](https://pypi.org/project/langdetect/)
 * [Extruct 0.13.0](https://pypi.org/project/extruct/)
 * [DeepTranslator 1.5.4](https://pypi.org/project/deep-translator/)
+* [HTML5Lib 1.1](https://pypi.org/project/html5lib/)
 
 ## Installation :inbox_tray:
 
