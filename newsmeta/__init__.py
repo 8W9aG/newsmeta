@@ -15,7 +15,7 @@ import extruct
 import deep_translator
 
 
-__version__ = "1.0.2"
+__version__ = "1.0.3"
 
 TEXT_TAG_BLACKLIST = [
     "[document]",

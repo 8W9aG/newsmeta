@@ -23,7 +23,7 @@ def install_requires() -> typing.List[str]:
 
 setup(
     name='newsmeta',
-    version='1.0.2',
+    version='1.0.3',
     description='A python module for parsing HTML into news components.',
     long_description=long_description,
     long_description_content_type='text/markdown',
